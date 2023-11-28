@@ -6,4 +6,5 @@
 ## Table of Contents
 
 - [01 First look at CSS Grid](https://dragoncillos.github.io/CSS-Grid/01-first-look.html) *grid-template-columns*
-- [01 Sizing cells](https://dragoncillos.github.io/CSS-Grid/02-sizing-cells.html)
+- [02 Sizing cells](https://dragoncillos.github.io/CSS-Grid/02-sizing-cells.html) *grid-template-columns: 1fr 2fr*
+  - [02b Fast food menu](https://dragoncillos.github.io/CSS-Grid/02b-fast-food-menu.html) *grid-template-columns: 1fr auto*
