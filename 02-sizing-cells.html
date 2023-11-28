@@ -6,6 +6,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="stylesheet" href="css/base.css" />
 	<style type="text/css">
+		header {
+			max-width: 54rem;
+			margin: 4rem auto 0;
+			padding: 1.2rem;
+			background-color: #32343c;
+			color: white;
+
+			p {
+				margin-block-start: 1rem;
+			}
+
+			ul {
+				margin-block-start: 1rem;
+				list-style: none;
+			}
+		}
+
 		section {
 			max-width: 54rem;
 			margin: 4rem auto 0;
@@ -20,7 +37,11 @@
 			}
 
 			@media screen and (width > 720px) {
-				grid-template-columns: 33.33% 33.33% 33.33%;
+				/* grid-template-columns: 33.33% 33.33% 33.33%; */
+				/* Is the same output */
+				/* grid-template-columns: 1fr 1fr 1fr; */
+				/* Is the same output */
+				grid-template-columns: repeat(3, 1fr);
 			}
 		}
 
@@ -39,6 +60,17 @@
 </head>
 
 <body>
+	<header>
+		<p>If you're familiar with flex, this is similar to setting Flex bases of the items to zero and flex grow to 1 the FR unit helps occupy the remaining space in the grid.</p>
+		<p>If we change the last value to 50% The last column will first be assigned 50% of the total width and then the remaining space will be divided into two equal parts.</p>
+		<ul>
+			<li>/* grid-template-columns: 33.33% 33.33% 33.33%; */</li>
+			<li>/* Is the same output */</li>
+			<li>/* grid-template-columns: 1fr 1fr 1fr; */</li>
+			<li>/* Is the same output */</li>
+			<li>grid-template-columns: repeat(3, 1fr);</li>
+		</ul>
+	</header>
 	<section>
 		<div>
 			<h2>Logo Design</h2>
