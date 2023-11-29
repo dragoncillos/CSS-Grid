@@ -16,4 +16,5 @@
   - *justify-content vs justify-items*
   - *shorthand place-items: align-items justify-items*
   - *align-items*
-  - [05b Center div](https://dragoncillos.github.io/CSS-Grid/05b-center-div.html)
+  - [05b Center div](https://dragoncillos.github.io/CSS-Grid/05b-center-div.html) *place-items: center center = place-items: center*
+- [06 Single Cell Alignment](https://dragoncillos.github.io/CSS-Grid/06-restaurant-ratings.html) Restaurant ratings: *align-self, justify-self*
