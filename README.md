@@ -12,4 +12,7 @@
   - [03b Full page menu](https://dragoncillos.github.io/CSS-Grid/03b-full-page-menu.html) *grid-template: repeat(2, 1fr) / repeat(3, 1fr)*
 - [04 Spacing between cells](https://dragoncillos.github.io/CSS-Grid/04-spacing-between-cells.html) Fast food menu: *column-gap: 2rem -> row-gap: 2rem -> gap: 2rem 2rem -> gap: 2rem;*
   - [04b Shopping cart summary](https://dragoncillos.github.io/CSS-Grid/04b-shopping-cart-summary.html) Shopping Cart Summary *justify-content, align-content* -> shorthand *place-content: align-content justify-content*
-- [05 Horizontal and Vertical Spacing](https://dragoncillos.github.io/CSS-Grid/05-team-profiles.html) Team profiles: *justify-content vs justify-items, align-items*
+- [05 Horizontal and Vertical Spacing](https://dragoncillos.github.io/CSS-Grid/05-team-profiles.html) Team profiles:
+  - *justify-content vs justify-items*
+  - *shorthand place-items: align-items justify-items*
+  - *align-items*
