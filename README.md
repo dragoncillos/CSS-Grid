@@ -18,4 +18,6 @@
   - *align-items*
   - [05b Center div](https://dragoncillos.github.io/CSS-Grid/05b-center-div.html) *place-items: center center = place-items: center*
 - [06 Single Cell Alignment](https://dragoncillos.github.io/CSS-Grid/06-restaurant-ratings.html) Restaurant ratings: *align-self, justify-self*
-  - [06b Profile card](https://dragoncillos.github.io/CSS-Grid/06b-profile-card.html): shorthand *place-content: align-content justify-content*, *align-self and justify-self*
+  - [06b Profile card](https://dragoncillos.github.io/CSS-Grid/06b-profile-card.html):
+    - Shorthand *place-content: align-content justify-content*
+    - CSS properties that could be used on individual items of a grid: *align-self and justify-self*
