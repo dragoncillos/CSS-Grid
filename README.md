@@ -21,3 +21,4 @@
   - [06b Profile card](https://dragoncillos.github.io/CSS-Grid/06b-profile-card.html):
     - Shorthand *place-content: align-content justify-content*
     - CSS properties that could be used on individual items of a grid: *align-self and justify-self*
+- [07 Merge and Swap Cells](https://dragoncillos.github.io/CSS-Grid/07-contact-form.html) Contact form
