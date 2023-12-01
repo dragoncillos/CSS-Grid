@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Image with Caption</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="css/base.css" />
+	<style type="text/css">
+		figure {
+			margin: 4rem auto;
+			max-width: 34rem;
+			max-height: 28rem;
+
+			display: grid;
+			/* grid-template-columns: 1fr; */
+			grid-template-areas:
+				"fig";
+		}
+
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+
+			grid-area: fig;
+		}
+
+		figcaption {
+			background-color: rgba(30, 30, 30, 0.6);
+			padding: 0.8rem 1rem;
+			color: #fff;
+			font-size: 0.8rem;
+
+			grid-area: fig;
+			align-self: end;
+		}
+	</style>
+</head>
+
+<body>
+	<figure>
+		<img src="images/landscape.jpg" alt="Waterfalls" />
+		<figcaption>
+			Image has grid area named "fig" and figcaption also "fig" because we want both of them to occupy the same grid
+			area. We have the elements overlapping each other by default. Both items are stretching full height and full
+			width, but we want the caption to align to the bottom of the cell and occupy only as much height as the captioned
+			height and you remember which property you need to use to align content of one particular item vertically.
+		</figcaption>
+	</figure>
+</body>
+
+</html>
