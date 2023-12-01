@@ -28,5 +28,6 @@
   - grid-column: span 2;
 - [08 Named Grid Areas](https://dragoncillos.github.io/CSS-Grid/08-contact-form.html) Contact form: *grid-area, grid-template-areas*
   - [08b Image caption](https://dragoncillos.github.io/CSS-Grid/08b-image-caption.html) Image caption: *grid-area, grid-template-areas*. Image has grid area named "fig" and figcaption also "fig" because we want both of them to occupy the same grid area
-- [09 Advanced Sizing Values](https://dragoncillos.github.io/CSS-Grid/09-restaurant-listing.html) *max-content, min-content, fit-content, minmax*
+- [09 Advanced Sizing Values](https://dragoncillos.github.io/CSS-Grid/09-restaurant-listing.html) *max-content, min-content, fit-content*
+  - [09b Pricing plans](https://dragoncillos.github.io/CSS-Grid/09b-pricing-plans.html) *minmax*
 		  
