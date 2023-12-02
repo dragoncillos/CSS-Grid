@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [01 First look at CSS Grid](https://dragoncillos.github.io/CSS-Grid/01-first-look.html) *grid-template-columns*
+- [01 First look at CSS Grid](https://dragoncillos.github.io/CSS-Grid/01-first-look.html) *grid-template-columns* (view 10 Responsive Grids Without Media Queries)
 - [02 Sizing cells](https://dragoncillos.github.io/CSS-Grid/02-sizing-cells.html) *grid-template-columns: 1fr 2fr*
   - [02b Fast food menu](https://dragoncillos.github.io/CSS-Grid/02b-fast-food-menu.html) Fast food menu: *grid-template-columns: 1fr auto*
 - [03 Creating Rows](https://dragoncillos.github.io/CSS-Grid/03-page-layout-grid.html) Page layout grid: *grid-template-rows: auto 1fr auto*
@@ -30,4 +30,6 @@
   - [08b Image caption](https://dragoncillos.github.io/CSS-Grid/08b-image-caption.html) Image caption: *grid-area, grid-template-areas*. Image has grid area named "fig" and figcaption also "fig" because we want both of them to occupy the same grid area
 - [09 Advanced Sizing Values](https://dragoncillos.github.io/CSS-Grid/09-restaurant-listing.html) *max-content, min-content, fit-content*
   - [09b Pricing plans](https://dragoncillos.github.io/CSS-Grid/09b-pricing-plans.html) *minmax*
+- [10 Responsive Grids Without Media Queries](https://dragoncillos.github.io/CSS-Grid/10-responsive-services.html) *auto-fit, minmax, auto-fill* 
+  - [10b Statistic section](https://dragoncillos.github.io/CSS-Grid/10b-stats-section.html) *auto-fit, minmax, auto-fill*
 		  
