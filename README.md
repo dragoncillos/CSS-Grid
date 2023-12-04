@@ -34,4 +34,5 @@
   - [10b Statistic section](https://dragoncillos.github.io/CSS-Grid/10b-stats-section.html) *auto-fit, minmax, auto-fill*
 - [11 Auto Flow and Sizing Implicit Grids](https://dragoncillos.github.io/CSS-Grid/11-instructions.html) *grid-auto-flow, grid-auto-columns* 
   - [11b Full page menu](https://dragoncillos.github.io/CSS-Grid/11b-full-page-menu.html) *grid-auto-rows* 
+- [12 Episodes 1-11 Review](https://dragoncillos.github.io/CSS-Grid/12-dashboard-layout.html)
 		  
