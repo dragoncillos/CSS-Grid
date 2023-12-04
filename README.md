@@ -32,4 +32,5 @@
   - [09b Pricing plans](https://dragoncillos.github.io/CSS-Grid/09b-pricing-plans.html) *minmax*
 - [10 Responsive Grids Without Media Queries](https://dragoncillos.github.io/CSS-Grid/10-responsive-services.html) *auto-fit, minmax, auto-fill* 
   - [10b Statistic section](https://dragoncillos.github.io/CSS-Grid/10b-stats-section.html) *auto-fit, minmax, auto-fill*
+- [11 Auto Flow and Sizing Implicit Grids](https://dragoncillos.github.io/CSS-Grid/11-instructions.html) *grid-auto-flow, grid-template-rows, grid-auto-columns* 
 		  
