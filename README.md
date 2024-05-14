@@ -1,4 +1,4 @@
-# CSS Grid simplified
+# CSS Grid Simplified
 
 - [CSS Grid simplified course by Shruti Balasa](https://laracasts.com/series/css-grids-simplified)
 - [Based of the original source code](https://github.com/laracasts/css-grids-simplified)
